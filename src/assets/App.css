@@ -1,0 +1,8 @@
+.custom-sidebar .offcanvas {
+  width: 250px; /* กำหนดความกว้างตามที่ต้องการ */
+}
+
+.custom-sidebar .offcanvas-body {
+  padding: 10rem; /* ปรับ padding หากต้องการ */
+}
+
